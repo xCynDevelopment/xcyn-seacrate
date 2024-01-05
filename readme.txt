@@ -17,7 +17,7 @@ Config.TargetModels = {
     }
 }
 
-You also need to make sure you either have the items I used or edit this to add items you use in your server.
+You also need to make sure you either have the items I used or edit to add items you use in your server.
 
 	
 
